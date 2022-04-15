@@ -1,5 +1,5 @@
 # NFL-Offense-2016-Machine-Learning
 
-## ETL Data Preperation
+## ETL Data Preparation
 
 ## Visualizations
