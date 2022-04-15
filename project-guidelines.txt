@@ -30,6 +30,26 @@ Introduction to NFL Team Performance
 - Bottom 10 Teams Winning %
 
 Vs. Winning % and Vs. Points Per Game…
+PASSING
+- Pct Completion
+- Passing yards
+- Passing attempts
+- Yds/Comp
+- Pass TD
+- Interceptions
+- QB Rating
+- Passing 1st
+
+
+RUSHING
+- Rushing Attempts
+- Rushing yards
+- Rushing yards/attempt
+- Rush TD
+- Rushing 1st
+
+
+WHOLE OFFENSE
 - Points per game
 - 3rd down conversion
 - Red zone %
@@ -39,20 +59,8 @@ Vs. Winning % and Vs. Points Per Game…
 - First downs
 - TO Diff
 - Total yards
-- Pct Completion
-- Passing yards
-- Passing attempts
-- Yds/Comp
-- Pass TD
-- Interceptions
-- Rushing Attempts
-- Rushing yards
-- Rushing yards/attempt
-- Rush TD
-- QB Rating
-- Passing 1st
-- Rushing 1st
 - Scrm Plays
+
 
 Vs. 3rd Down Attempts(Want to avoid 3rd down situations)
 - Passing attempts
@@ -60,10 +68,12 @@ Vs. 3rd Down Attempts(Want to avoid 3rd down situations)
 - Interceptions
 - Winning %
 - QB Rating
-
 - QB Rating vs. 3rd Down Conversion
+
+
+OTHER
 - QB Rating vs. Red Zone %
-- Scrm Plays vs. Time of Posession
+- Scrm Plays vs. Time of Possession
 - Yds/Play vs. Rushing Attempts
 - Yds/Play vs. Passing Attempts
 - Sacks vs Passing Attempts
