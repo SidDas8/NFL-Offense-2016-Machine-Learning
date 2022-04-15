@@ -1,0 +1,69 @@
+Project Guidelines
+
+GOAL
+
+Predict the winning % of a team based on a series of offensive statistics. How much value does a specific statistic add to the number of wins for a team. What is the most important statistics to having a successful season? What is common among the best teams? What is common among the worst teams?
+
+
+MACHINE LEARNING
+
+Can we predict if the team will make the playoffs given a set of statistics? If we know the benchmark for success, we can plan and act accordingly.
+
+
+COLUMNS TO DELETE
+
+Division, W, L, T, Total Pts, TOP, Rush Yards Allowed, Rush Yards Allowed Per Attempt, TFL, TFL Pct, Sack Yds, Rec, Receiving Yards, Yds/Rec, Recieving TD, Receiving 1st
+
+
+
+VISUALIZATIONS/QUESTIONS(Group relevant visualizations together)
+
+
+Introduction to NFL Team Performance
+- Top 10 Teams Winning %
+- Bottom 10 Teams Winning %
+
+Vs. Winning % and Vs. Points Per Game…
+- Points per game
+- 3rd down conversion
+- Red zone %
+- Offensive penalties
+- Sack %
+- QB Hit %
+- First downs
+- TO Diff
+- Total yards
+- Pct Completion
+- Passing yards
+- Passing attempts
+- Yds/Comp
+- Pass TD
+- Interceptions
+- Rushing Attempts
+- Rushing yards
+- Rushing yards/attempt
+- Rush TD
+- QB Rating
+- Passing 1st
+- Rushing 1st
+- Scrm Plays
+
+Vs. 3rd Down Attempts(Want to avoid 3rd down situations)
+- Passing attempts
+- Rushing attempts
+- Interceptions
+- Winning %
+- QB Rating
+
+- QB Rating vs. 3rd Down Conversion
+- QB Rating vs. Red Zone %
+- Scrm Plays vs. Time of Posession
+- Yds/Play vs. Rushing Attempts
+- Yds/Play vs. Passing Attempts
+- Sacks vs Passing Attempts
+- QB Hits vs Passing Attempts
+
+
+POTENTIALLY GROUP BY DIVISION/CONFERENCE
+- Points per game
+- Playoffs
