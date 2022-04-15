@@ -2,17 +2,23 @@ Project Guidelines
 
 GOAL
 
-Predict the winning % of a team based on a series of offensive statistics. How much value does a specific statistic add to the number of wins for a team. What is the most important statistics to having a successful season? What is common among the best teams? What is common among the worst teams?
+Predict the winning % of a team based on a series of offensive statistics. 
+How much value does a specific statistic add to the number of wins for a team? 
+What is the most important statistics to having a successful season? 
+What is common among the best teams? 
+What is common among the worst teams?
 
 
 MACHINE LEARNING
 
-Can we predict if the team will make the playoffs given a set of statistics? If we know the benchmark for success, we can plan and act accordingly.
+Can we predict if the team will make the playoffs given a set of statistics? 
+If we know the benchmark for success, we can plan and act accordingly.
 
 
 COLUMNS TO DELETE
 
-Division, W, L, T, Total Pts, TOP, Rush Yards Allowed, Rush Yards Allowed Per Attempt, TFL, TFL Pct, Sack Yds, Rec, Receiving Yards, Yds/Rec, Recieving TD, Receiving 1st
+Division, W, L, T, Total Pts, TOP, Rush Yards Allowed, Rush Yards Allowed Per Attempt,
+TFL, TFL Pct, Sack Yds, Rec, Receiving Yards, Yds/Rec, Recieving TD, Receiving 1st
 
 
 
