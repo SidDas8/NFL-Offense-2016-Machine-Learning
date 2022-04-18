@@ -7,6 +7,12 @@ How much value does a specific statistic add to the number of wins for a team?
 What is the most important statistics to having a successful season? 
 What is common among the best teams? 
 What is common among the worst teams?
+What determines success on third down?
+What determines scoring the most points?
+What determines winning?
+Look into interceptions.
+Look into redzone.
+
 
 
 MACHINE LEARNING
